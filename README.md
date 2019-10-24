@@ -1,1 +1,5 @@
-# HITK_CSE_SoftwareToolsLab
+# Software Tools Lab (SEM -3)
+
+#### !!! THIS REPO IS UNDER CONSTRUCTION !!! 
+
+FILES WILL BE UPLOADED WITHIN 72 HOURS
