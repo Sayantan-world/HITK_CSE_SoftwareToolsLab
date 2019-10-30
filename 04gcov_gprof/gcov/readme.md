@@ -9,7 +9,7 @@ READ THIS __[GUIDE](https://www.tutorialspoint.com/unix_commands/gcov.htm)__
 
 ### Follow the steps below :
 
-- Download fact.c and open terminalto move to ur current working directory and execute this
+- Download fact.c and open terminal to move to ur current working directory and type this
 ```
 gcc -fprofile-arcs -ftest-coverage fact.c
 ```
