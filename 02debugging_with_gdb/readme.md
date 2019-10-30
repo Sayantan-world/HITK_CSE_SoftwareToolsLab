@@ -4,7 +4,7 @@
 
 Read this __[guide](https://www.tutorialspoint.com/gnu_debugger/gdb_commands.htm)__ 
 
-- (gdb)list - Displays the code(first 10 lines only)
+- (gdb) list - Displays the code(first 10 lines only)
 - (gdb) b [line number] - to add breakpoints
 - (gdb) run - Start debugging from the breakpoint
 - (gdb) next OR (gdb) n - Go to next line, may skip a function if it is there
