@@ -2,8 +2,8 @@
 ---
 | Week | Description | Completed |
 | :---: | :---: | :---: |
-|Day 1  | Steps of Compilation (Compiling with gcc) | ❌ |
-|Day 2  | Debugging with gdb | ❌ |
+|Day 1  | Steps of Compilation (Compiling with gcc) | ✔️ |
+|Day 2  | Debugging with gdb | ✔️ |
 |Day 3 & 4 | Shared and Dynamic Libraries | ❌ |
 |Day 5  | Code coverage testing with gcov & Runtime profiling with gprof | ❌ |
 |Day 6  | Makefiles | ❌ |
