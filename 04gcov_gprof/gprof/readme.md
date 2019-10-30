@@ -3,7 +3,8 @@ gprof - Profiling is an important aspect of software programming.
 Through profiling one can determine the parts in program code that are time consuming and need to be re-written. 
 This helps make your program execution faster which is always desired.
 <br><br>
-READ THIS __[GUIDE](https://www.thegeekstuff.com/2012/08/gprof-tutorial)__
+READ THESE __[GUIDE1](https://www.thegeekstuff.com/2012/08/gprof-tutorial)__ __[GUIDE2](https://www.tutorialspoint.com/unix_commands/gprof.htm)__
+
 ### Follow the steps below :
 - Download loops.c and open terminal to move to ur current working directory and type this
 ```
