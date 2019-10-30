@@ -20,14 +20,14 @@ __Generates loops executable file__
 __Generates  gmon.out file__
 - Now type these
 ```
-gprof -ab loops gmon.out > short_analysis.txt
+gprof -b loops gmon.out > short_analysis.txt
 ```
 ```
  gprof loops gmon.out > analysis.txt
  ```
  
 Here we put the analysis made by profiling the codes to both the text files.<br><br>
--ab flag is used to make a shart compact version of the analysis(Flat profile and call graph only)
+-b flag is used to make a shart compact version(eliminate verbose info) of the analysis(Flat profile and call graph only)
 <br><br>
 Short analysis looks like this and may vary in ur machine
 
