@@ -1,5 +1,21 @@
 # Debugging with gdb
 ---
+## Some basic commands --
+
+Read this __[guide](https://www.tutorialspoint.com/gnu_debugger/gdb_commands.htm)__ 
+
+- (gdb)list - Displays the code(first 10 lines only)
+- (gdb) b [line number] - to add breakpoints
+- (gdb) run - Start debugging from the breakpoint
+- (gdb) next OR (gdb) n - Go to next line, may skip a function if it is there
+- (gdb) step OR (gdb) s - Go to next line, will NOT skip a function if it is there
+- (gdb) backtrace OR (gdb) bt - Shows call stack (LIFO manner)
+- (gdb) infolocals - Shows current state of all local variables
+- (gdb) where - shows line number where segmentation fault or error is occuring
+- (gdb) print [variable name] - Shows value of tht variable
+- (gdb) watches [variable name] - To see the change in a variaable
+
+---
 
 ## Program 1
 ---
