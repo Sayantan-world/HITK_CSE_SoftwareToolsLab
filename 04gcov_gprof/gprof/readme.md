@@ -10,7 +10,7 @@ READ THESE __[GUIDE1](https://www.thegeekstuff.com/2012/08/gprof-tutorial)__ __[
 ```
 gcc -Wall -pg loops.c -o loops
 ```
-Please Note: -Wall means Warnings all(allowed)<br><br>
+Please Note: -Wall means all Warnings (enabled by compiler)<br><br>
 -pg : Generate extra code to write profile information suitable for the analysis program gprof.
 You must use this option when compiling the source files you want data about, and you must also use it when linking.
 __Generates loops executable file__
