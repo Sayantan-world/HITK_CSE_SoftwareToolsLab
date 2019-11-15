@@ -10,10 +10,10 @@ Read this __[guide](https://www.tutorialspoint.com/gnu_debugger/gdb_commands.htm
 - (gdb) next OR (gdb) n - Go to next line, may skip a function if it is there
 - (gdb) step OR (gdb) s - Go to next line, will NOT skip a function if it is there
 - (gdb) backtrace OR (gdb) bt - Shows call stack (LIFO manner)
-- (gdb) infolocals - Shows current state of all local variables
+- (gdb) info locals - Shows current state of all local variables
 - (gdb) where - shows line number where segmentation fault or error is occuring
 - (gdb) print [variable name] - Shows value of tht variable
-- (gdb) watches [variable name] - To see the change in a variaable
+- (gdb) watch [variable name] - To see the change in a variaable
 
 ---
 
