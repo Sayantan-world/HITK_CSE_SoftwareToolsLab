@@ -11,7 +11,7 @@ Syntax of makefile
 ```
 
 ###### Directory Stucture for this project 
-![Dir Structure](05makefiles/image/Screenshot from 2019-11-15 19-05-29.png)
+![Dir Structure](https://github.com/Pratap2018/HITK_CSE_SoftwareToolsLab/blob/master/05makefiles/image/Screenshot%20from%202019-11-15%2019-05-29.png)
 
 :+1:
 
@@ -63,5 +63,6 @@ sudo apt-get install cmake
 ##### Run the makefile
 
 GET  inside to folder src using terminal and type make and hit enter
-![Run Make](05makefiles/image/Screenshot from 2019-11-15 19-27-15.png)
+
+![Run Make](https://github.com/Pratap2018/HITK_CSE_SoftwareToolsLab/blob/master/05makefiles/image/Screenshot%20from%202019-11-15%2019-27-15.png)
 
