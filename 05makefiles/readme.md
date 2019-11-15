@@ -51,3 +51,17 @@ help:
 
 
 ```
+
+#### install make or cmake 
+
+```
+sudo apt-get install make
+    *Or*
+sudo apt-get install cmake    
+```
+
+##### Run the makefile
+
+GET  inside to folder src using terminal and type make and hit enter
+![Run Make](05makefiles/image/Screenshot from 2019-11-15 19-27-15.png)
+
