@@ -56,7 +56,9 @@ help:
 
 ```
 sudo apt-get install make
-    *Or*
+```
+Or
+```    
 sudo apt-get install cmake    
 ```
 
