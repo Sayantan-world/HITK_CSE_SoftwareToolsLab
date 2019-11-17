@@ -57,7 +57,7 @@ help:
 ```
 sudo apt-get install make
 ```
-Or
+Alternate command
 ```    
 sudo apt-get install cmake    
 ```
