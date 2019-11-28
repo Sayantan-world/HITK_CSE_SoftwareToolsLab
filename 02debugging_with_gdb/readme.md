@@ -12,8 +12,8 @@ Read this __[guide](https://www.tutorialspoint.com/gnu_debugger/gdb_commands.htm
 - (gdb) backtrace OR (gdb) bt - Shows call stack (LIFO manner)
 - (gdb) info locals - Shows current state of all local variables
 - (gdb) where - shows line number where segmentation fault or error is occuring
-- (gdb) print [variable name] - Shows value of tht variable
-- (gdb) watch [variable name] - To see the change in a variaable
+- (gdb) print [variable name] - Shows value of that variable
+- (gdb) watch [variable name] - To see the change in a variable
 
 ---
 
